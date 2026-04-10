@@ -129,7 +129,7 @@
             <mxPoint x="230" y="62" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcjmbz2ios-WJ2v3t8-G-35" parent="1" style="shape=rhombus;html=1;dashed=0;perimeter=rhombusPerimeter;align=center;whiteSpace=wrap;" value="&amp;nbsp;Do Total Debits&amp;nbsp;&lt;div&gt;Equal Total Credits?&lt;/div&gt;" vertex="1">
+        <mxCell id="xcjmbz2ios-WJ2v3t8-G-35" parent="1" style="shape=rhombus;html=1;dashed=0;perimeter=rhombusPerimeter;align=center;whiteSpace=wrap;" value="Post Another&lt;div&gt;Entry?&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="160" x="830" y="190" as="geometry" />
         </mxCell>
         <mxCell id="xcjmbz2ios-WJ2v3t8-G-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Error: Invalid Amount" vertex="1">
